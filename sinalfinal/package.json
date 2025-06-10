@@ -4,7 +4,7 @@
   "description": "Backend para controle de semáforo com API REST",
   "main": "src/server.js",
   "scripts": {
-    "start": "node src/node app.js",
+    "start": "node src/server.js",
     "dev": "nodemon src/server.js"
   },
   "dependencies": {
